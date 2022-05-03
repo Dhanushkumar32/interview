@@ -1,0 +1,47 @@
+1)When two or more methods in the same class have the same name but different parameters, it’s called Overloading.    
+  whereas when  the method name and parameters are the same in the superclass and the child class, it’s called Overriding.
+  The method Overriding occurs between superclass and subclass. Overloading occurs between the methods in the same class.
+
+2)NO.
+
+3)Final:-
+	   Final is the keyword and access modifier which is used to apply restrictions on a class, method or variable.
+  	   It is used in the class and classes, methods and variables.
+
+  Finally:-
+		Finally is the part in Java Exception Handling to execute the important code whether the exception occurs or not.
+  		Finally block is always related to the try and catch block in exception handling.
+
+  Finalize:-
+		Finalize is the method in Java which is used to perform clean up processing just before object is garbage collected.
+  		Finalize method is used with the objects.
+
+4)The marker interface pattern is a design pattern used with languages that provide run-time type information about objects.
+
+5)The singleton pattern is a software design pattern that restricts the instantiation of a class to one single instance. This is useful when exactly one object is needed to coordinate actions across the system.
+
+6)Both ArrayList and LinkedList are two different implementations of the List interface. ArrayList is a resizable-array implementation, whereas LinkedList is a Doubly-linked list implementation of the List interface.
+
+7)Hash collision or clash is when two pieces of data in a hash table share the same hash value.
+
+8)A lambda expression is a short part of code which takes in parameters and returns a value.
+
+9)A functional interface is an interface that contains only one abstract method.
+
+11)Factory method pattern:-Is a creational pattern that uses factory methods to deal with the problem of creating objects without having to specify the 						exact class of the object that will be created.
+   Adapter pattern:- is a software design pattern that allows the interface of an existing class to be used as another interface.
+
+12)SOLID is a combination of five design principles intended to make software designs more understandable, flexible, and maintainable.
+
+13)@ComponentScan annotation along with the @Configuration annotation to specify the packages that we want to be scanned. @ComponentScan without arguments tells Spring to scan the current package and all of its sub-packages.
+
+14)Java Persistence API (JPA) defines the management of relational data in the Java applications. Hibernate is an Object-Relational Mapping (ORM) tool which is used to save the state of Java object into the database. Objectrelational mapping in computer science is a programming technique for converting data between type systems using object-oriented programming languages.
+
+15)A database index is a data structure that improves the speed of data retrieval operations on a database table at the cost of additional writes and storage space to maintain the index data structure.
+
+18)Simple object access protocol (SOAP) is an official protocol maintained by the World Wide Web Consortium (W3C). The main difference is that SOAP is a protocol while REST is not.
+
+19)PUT method is call when you have to modify a single resource, which is already a part of resource collection.
+POST method is call when you have to add a child resource under resources collection
+
+20)React, a Javascript library, uses unidirectional data flow and doesn't support bi-directional binding
